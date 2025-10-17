@@ -6,8 +6,6 @@
 
   Na Parte 1, foi realizado o clássico projeto “Blink”, em que o LED interno (conectado ao pino 13 do Arduino) é programado para piscar em intervalos definidos. Essa etapa permite compreender o funcionamento básico das funções setup() e loop(), além do uso dos comandos pinMode(), digitalWrite() e delay() para controlar saídas digitais.
 
-  Na Parte 2, o mesmo princípio foi aplicado a um LED externo, utilizando componentes físicos como resistores, jumpers e protoboard, simulando o circuito no Tinkercad antes da montagem prática. Essa parte reforça o entendimento sobre conexões elétricas, polaridade de componentes e controle de dispositivos externos por meio de portas digitais do Arduino.
-
 ## Blink do LED Interno do Arduino
 
 #### Código de Funcionamento do Arduino:
@@ -42,6 +40,10 @@ void loop() {
 ---
 
 # Parte 2 da ponderada da Semana 1
+
+## Introdução
+
+    Na Parte 2, o mesmo princípio foi aplicado a um LED externo, utilizando componentes físicos como resistores, jumpers e protoboard, simulando o circuito no Tinkercad antes da montagem prática. Essa parte reforça o entendimento sobre conexões elétricas, polaridade de componentes e controle de dispositivos externos por meio de portas digitais do Arduino.
 
 ## Blink do LED externo usando Arduino
 
